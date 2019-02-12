@@ -1,23 +1,118 @@
-.dimgrey {
-    color: dimgrey;
-}
 body {
-  font-family: Helvetica, sans-serif;
-  font-size: 20px;
-    color: dimgrey;
+  margin: 0;
+  padding: 0;
 }
 div {
-  width: 600px;
-  margin: 50px auto;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: -10px;
+  opacity: .8;
+  border-radius: 100%;
 }
-div {
+.pattern1 .first {
+  background-color: red;
+  margin: 40px;
+  opacity: .8;
+  border-radius: 100%;
 }
-h1 {
-font-size: 30px;
+.second {
+  background-color: none;
+  margin: -20px;
+  opacity: .8;
+  border-radius: 100%;
+  border: 8px solid blue;
 }
-p {
-  width: 50vw;
+.third {
+  background-color: yellow;
+  margin: -40px;
+  opacity: .8;
+  border-radius: 100%;
 }
-img {
-  width: 50vw;
+.fourth {
+  background-color: black;
+  margin: 0;
+  opacity: .2;
+  border-radius: 25px;
+}
+.fifth {
+  background-color: cyan;
+  margin: 20px;
+  opacity: .4;
+  border-radius: 5px;
+}
+.pattern2 .sixth {
+  background-color: magenta;
+  margin: 20px;
+  opacity: .4;
+  border-radius: 5px;
+}
+.seventh {
+  background-color: grey;
+  margin: 20px;
+  opacity: .4;
+  border-radius: 5px;
+}
+.eighth {
+  background-color: lavender;
+  margin: 20px;
+  opacity: .4;
+  border-radius: 5px;
+}
+.pattern3 .ninth {
+  background-color: grey;
+  margin: -10px;
+  opacity: .8;
+  border-radius: 100%;
+}
+.tenth {
+  background-color: black;
+  margin: -10px;
+  opacity: .6;
+  border-radius: 100%;
+}
+.pattern4 .eleventh {
+  background-color: palevioletred;
+  margin: -20px;
+  opacity: .8;
+  border-radius: 25px;
+}
+.twelfth {
+  background-color: lightpink;
+  margin: -15px;
+  opacity: .6;
+  border-radius: 25px;
+}
+.thirteenth {
+  background-color: pink;
+  margin: 10px;
+  opacity: .6;
+  border-radius: 25px;
+}
+.fourteenth {
+  background-color: rosybrown;
+  margin: 30px;
+  opacity: .6;
+  border-radius: 25px;
+}
+.pattern5 .fifteenth {
+  background-color: white;
+  margin: -20px;
+  opacity: .8;
+  border-radius: 100%;
+  border: 5px solid lightskyblue;
+}
+.sixteenth {
+  background-color: cornflowerblue;
+  margin: -20px;
+  opacity: .5;
+  border-radius: 100%;
+  border: 25px
+}
+.eighteenth {
+  background-color: darkturquoise;
+  margin: -20px;
+  opacity: .6;
+  border-radius: 100%;
+  border: 25px
 }
