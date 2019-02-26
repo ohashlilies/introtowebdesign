@@ -4,20 +4,25 @@
 body {
   font-family: Helvetica, sans-serif;
   font-size: 18px;
-    color: dimgrey;
+    color: steelblue;
 }
+
 div {
   width: 600px;
   margin: 50px auto;
 }
+
 div {
 }
+
 h1 {
 font-size: 26px;
 }
+
 p {
   width: 50vw;
 }
+
 img {
   width: 50vw;
 }
