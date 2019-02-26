@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+    div {float: left;}
+
+/* checkerboard */
+}
+body {
+  margin: 0
+}
+div {
+  float: left;
+}
+.board {
+  width: 800px;
+}
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.black {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+
+/*tennis court*/
+.square, .tall, .wide
+  {
+      border: 1px solid white;
+      background-color: red;
+  }
+
+.court
+  {
+    width: 600px;
+  }
+
+.court-center
+    {
+      width: 400px;
+    }
+
+.tall
+    {
+      width: 100px;
+      height: 400px;
+    }
+
+.wide
+  {
+    width: 400px;
+    height: 200px;
+  }
+
+.square
+  {
+    width: 200px;
+    height: 200px;
+  }
+
+
+/*3 column grid (with header and footer)*/
+.footer, .subhead, .column
+  {
+    background-color: red;
+    border: 5px solid white;
+  }
+
+.column-grid, .footer, .subhead
+  {
+    width: 600px;
+  }
+
+.footer
+  {
+    height: 100px;
+  }
+
+.subhead
+  {
+    height: 30px;
+  }
+
+.column
+  {
+    width: 200px;
+    height: 400px;
+  }
+
+/*blog layout*/
+.header, .text, .bottom, .image
+  {
+    background-color: red;
+    border: 5px solid white;
+  }
+
+.header
+  {
+    width: 600px;
+    height: 150px;
+  }
+
+.image
+  {
+    width: 100px;
+    height: 100px;
+  }
+
+.gap
+  {
+    width: 100px;
+    height: 150px;
+  }
+
+.text
+  {
+    width: 500px;
+    height: 300px;
+  }
+
+.bottom
+  {
+    width: 500px;
+    height: 50px;
+  }
+
+.space
+  {
+    width: 600px;
+    height: 50px;
+  }
