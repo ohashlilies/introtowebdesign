@@ -11,10 +11,12 @@ div {
 }
 div {
 }
-h1 {
-font-size: 40px;
-color: steelblue;
+
+img {
+  width: 52vw;
+  margin-left: 26px;
 }
+
 h2 {
 font-size: 20px;
 color: #3EB6AA;
@@ -25,9 +27,6 @@ p {
   font-style: italic;
   width: 52vw;
   color: #52847E;
-}
-img {
-  width: 45vw;
 }
 
 a:link, a:visited  {
