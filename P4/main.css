@@ -1,0 +1,59 @@
+.dimgrey {
+    color: #FAFCFD;
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+    color: #3B6F79;
+}
+
+div {
+  width: 600px;
+  margin: 50px auto;
+}
+
+div {
+}
+
+h1 {
+font-size: 26px;
+}
+
+h2 {
+font-size: 16px;
+}
+
+h3 {
+font-size: 15px;
+color: dimgrey;
+}
+
+p {
+  width: 50vw;
+}
+
+img {
+  width: 50vw;
+}
+
+a:link, a:visited  {
+    color: #537E79;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #55DFCF;
+    display: inline-block;
+    font-size: 14px;
+}
+
+a:visited
+  {
+    color: #537E79;
+  }
+
+a:hover
+  {
+    color: #0F9F93;
+    text-decoration: underline;
+    text-decoration-color: #E2FAF7;
+    transition: color 1s ease;
+  }
