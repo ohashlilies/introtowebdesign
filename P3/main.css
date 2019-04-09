@@ -1,0 +1,594 @@
+/*1440px*/
+@media only screen and (max-width: 1440px) {
+
+  main {
+    width: 1500px;
+    margin: 45px auto;
+}
+
+body {
+  margin: 0;
+  background-color: #FDFEFA;
+}
+
+body {
+  margin: 0px;
+  background-color: #D5E7D4;
+}
+
+main {
+  width: 1450px;
+  margin: 43px auto;
+}
+header {
+  background: url('introimage.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 1440px;
+  height: 400px;
+  margin: 0;
+  padding: 40vh 0 0 0;
+  text-align: center;
+}
+
+.startline  {
+  margin-top: 10px;
+  color: #BED7AE;
+}
+
+.quoteline1  {
+  margin-top: 40px;
+  width:
+  color: #BED7AE;
+}
+
+.quoteline2  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+.tourism {
+  width: 320px;
+  margin: 10px auto;
+  margin-left: 570px;
+}
+
+.global {
+  width: 320px;
+  margin: 10px auto;
+  margin-left: 570px;
+}
+
+.travel {
+  width: 320px;
+  margin: 10px auto;
+  margin-left: 0px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  font-size: 3em;
+  letter-spacing: 13px;
+  color: white;
+  text-align: center;
+  font-weight: 200;
+}
+
+h2 {
+  margin-top: -10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 6em;
+  letter-spacing: 18px;
+  color: white;
+  text-align: center;
+  font-weight: 400;}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #3CA561;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 1.8em;
+  letter-spacing: 4px;
+  text-align: center;
+  margin-top: 40px;
+  }
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #87C585;
+  font-size: 2.2em;
+  width: 900px;
+  margin-left: 277px;
+  font-weight: 600;
+  line-height: 1.8em;
+  letter-spacing: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+  }
+
+h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #74976C;
+  font-size: 1.4em;
+  font-weight: 400;
+  line-height: 1.4em;
+  letter-spacing: 3.7px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 700px;
+  margin-left: 376px;
+}
+
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  color: #7DA27C;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 2em;
+  letter-spacing: 6px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: -200px;
+  width: 720px;
+  }
+
+.endline  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.9em;
+  text-align: center;
+  color: #595E59;
+  width: 700px;
+  margin-left: 365px;
+}
+
+/*1024px*/
+@media only screen and (max-width: 1024px) {
+
+  main {
+    width: 768px;
+    margin: 25px auto;
+}
+
+body {
+  margin: 0;
+  background-color: #FDFEFA;
+}
+
+main {
+    width: 1030px;
+    margin: 45px auto;
+}
+
+header {
+  background: url('introimage.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 1024px;
+  height: 400px;
+  margin: 0;
+  padding: 40vh 0 0 0;
+  text-align: center;
+}
+
+.startline  {
+  margin-top: 10px;
+  color: #BED7AE;
+}
+
+.quoteline1  {
+  margin-top: 40px;
+  width:
+  color: #BED7AE;
+}
+
+.quoteline2  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+.tourism {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 326px;
+}
+
+.global {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 326px;
+}
+
+.travel {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 326px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  font-size: 2.8em;
+  letter-spacing: 10px;
+  color: white;
+  text-align: center;
+  font-weight: 200;
+}
+
+h2 {
+  margin-top: -30px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 4em;
+  letter-spacing: 18px;
+  color: white;
+  text-align: center;
+  font-weight: 400;}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #6A897B;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 1.8em;
+  letter-spacing: 4px;
+  text-align: center;
+  margin-top: 40px;
+  }
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.9em;
+  width: 530px;
+  margin-left: 256px;
+  font-weight: 600;
+  line-height: 1.8em;
+  letter-spacing: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+  }
+
+h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #74976C;
+  font-size: 1.4em;
+  font-weight: 400;
+  line-height: 1.4em;
+  letter-spacing: 3.7px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 700px;
+  margin-left: 164px;
+}
+
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 2em;
+  letter-spacing: 6px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: -200px;
+  width: 720px;
+  }
+
+.endline  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.8em;
+  text-align: center;
+  color: #939793;
+  width: 700px;
+  margin-left: 160px;
+}
+
+/*768px*/
+@media only screen and (max-width: 768px) {
+  main {
+    width: 768px;
+    margin: 25px auto;
+}
+
+body {
+  margin: 0;
+  background-color: #E7F1E4;
+}
+
+header {
+  background: url('introimage.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 768px;
+  height: 200px;
+  margin: 0;
+  padding: 40vh 0 0 0;
+  text-align: center;
+}
+
+.startline  {
+  margin-top: 10px;
+  color: #BED7AE;
+}
+
+.quoteline1  {
+  margin-top: 40px;
+  width:
+  color: #BED7AE;
+}
+
+.quoteline2  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+.tourism {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 205px;
+}
+
+.global {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 205px;
+}
+
+.travel {
+  width: 320px;
+  margin: 10px auto;
+  margin-right: 205px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 0px;
+  font-size: 2.5em;
+  letter-spacing: 4px;
+  color: white;
+  text-align: center;
+  font-weight: 200;
+}
+
+h2 {
+  margin-top: -25px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.8em;
+  letter-spacing: 5.5px;
+  color: white;
+  text-align: center;
+  font-weight: 400;}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #757775;
+  font-size: 1.1em;
+  font-weight: 600;
+  line-height: 1.4em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 40px;
+  }
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.6em;
+  width: 350px;
+  margin-left: 210px;
+  font-weight: 600;
+  line-height: 1.5em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-bottom: 10px;
+  }
+
+h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #74976C;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.4em;
+  letter-spacing: 3.3px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  width: 700px;
+  margin-left: 32px;
+}
+
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 1.5em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: -200px;
+  width: 720px;
+  }
+
+.endline  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: .9em;
+  line-height: 1.5em;
+  text-align: center;
+  color: #939793;
+  width: 550px;
+  margin-left: 105px;
+}
+
+/*320px*/
+@media only screen and (max-width: 452px) {
+  main {
+    width: 320px;
+    margin: 10px auto;
+}
+
+body {
+  margin: 0;
+  background-color: #F5FBF5;
+}
+
+header {
+  background: url('introimage.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 390px;
+  height: 20px;
+  margin: 0;
+  padding: 40vh 0 0 0;
+  text-align: center;
+}
+
+.startline  {
+  margin-top: 10px;
+  color: #BED7AE;
+}
+
+.quoteline1  {
+  margin-top: 40px;
+  color: #BED7AE;
+}
+
+.quoteline2  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+.tourism {
+  width: 320px;
+  margin: 10px auto;
+}
+
+.global {
+  width: 320px;
+  margin: 10px auto;
+}
+
+.travel {
+  width: 320px;
+  margin: 10px auto;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  margin-top: -87px;
+  font-size: 1.2em;
+  letter-spacing: 3px;
+  color: white;
+  text-align: center;
+  font-weight: 200;
+}
+
+h2 {
+  margin-top: -10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.8em;
+  letter-spacing: 4px;
+  color: white;
+  text-align: center;
+  font-weight: 400;}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #6A897B;
+  font-size: 1.1em;
+  font-weight: 600;
+  line-height: 1.4em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 40px;
+  }
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 1.5em;
+  width: 250px;
+  margin-left: 37px;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-bottom: 10px;
+  }
+
+h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #74976C;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.4em;
+  letter-spacing: 3.3px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-left: -188px;
+}
+
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  color: #BED7AE;
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 1.5em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: -35px;
+  width: 400px;
+  }
+
+.endline  {
+  margin-top: 30px;
+  color: #BED7AE;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: .9em;
+  width: 300px;
+  margin-left: 10px;
+  line-height: 1.5em;
+  text-align: center;
+  color: #939793;
+}
