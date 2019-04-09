@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.white {
+  color: white;
+}
+
+.steelblue {
+  color: steelblue;
+}
+
+.open
+{
+  height: 50vh;
+}
+
+#number1
+  {
+    background-image: url('london.jpg');
+    background-size: cover;
+  }
+
+#list-name {
+  background-color: #E8F4F4;
+  padding-bottom: 50px;
+  padding-top: 25px;
+}
+
+#city-5  {
+  transition: all 2s ease;
+}
+
+#city-4 {
+  background-color: dodgerblue;
+}
+
+#city-3 {
+  background-color: lavender;
+}
+
+#city-2 {
+  background-color: tomato;
+}
+
+#city-1 {
+  background-color: #1CA29A;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-weight: 400;
+  transition: all 2s ease;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-size: 32px;
+  transition: all 2s ease;
+  color: #68686B;
+}
+
+span {
+  transition: all 2s ease;
+  cursor: pointer;
+}
