@@ -20,6 +20,7 @@ main {
   width: 1450px;
   margin: 43px auto;
 }
+
 header {
   background: url('introimage.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
