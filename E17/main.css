@@ -45,6 +45,20 @@ input {
 	text-align: center;
 }
 
+input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+  border: 1px solid #DDDDDD;
+}
+
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 5px #DFD4B0;
+  border: 1px solid #DFD4B0;
+}
+
 .textbox {
     margin: 0 auto;
     margin-left: 20%;
