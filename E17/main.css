@@ -1,7 +1,7 @@
 body {
 margin: 0;
-color: #DBA29E;
-background-color: #FDF1F0;
+color: #F0F5E6;
+background-color: #6B8E23;
 }
 
 #container {
@@ -14,22 +14,24 @@ p {
 	margin: 0;
 }
 h1 {
-	font-family: 'Sorts Mill Goudy', serif;
-	font-size: 75px;
-	font-style: italic;
+	font-family:
+	'Merriweather', serif;
+	font-size: 36px;
 	font-weight: 400;
-	line-height: 92px;
+	line-height: 60px;
 	letter-spacing: 1px;
 	text-align: center;
 	letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 19px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
     letter-spacing: 2px;
-		font-weight: 100;
+		color: #E4F5BD;
+		font-weight: 300;
+		font-style: oblique;
 }
 
 .inputbox {
@@ -37,7 +39,7 @@ h2 {
 }
 
 input {
-	width: 15vw;
+	width: 270px;
 	height: 20px;
 	margin-top: 50px;
 	font-size: 30px;
@@ -46,17 +48,17 @@ input {
 }
 
 input[type=text], textarea {
-  -webkit-transition: all 0.30s ease-in-out;
-  -moz-transition: all 0.30s ease-in-out;
-  -ms-transition: all 0.30s ease-in-out;
-  -o-transition: all 0.30s ease-in-out;
+  -webkit-transition: all 0.20s ease-in-out;
+  -moz-transition: all 0.20s ease-in-out;
+  -ms-transition: all 0.20s ease-in-out;
+  -o-transition: all 0.20s ease-in-out;
   outline: none;
   border: 1px solid #DDDDDD;
 }
 
 input[type=text]:focus, textarea:focus {
-  box-shadow: 0 0 5px #DFD4B0;
-  border: 1px solid #DFD4B0;
+  box-shadow: 0 0 5px #C1EC81;
+  border: 3px solid #C1EC81;
 }
 
 .textbox {
@@ -66,10 +68,10 @@ input[type=text]:focus, textarea:focus {
 }
 
 .button {
-	width: 130px;
-	background-color: #DBA29E;
+	width: 200px;
+	background-color: #EC8F81;
 	color: white;
-	border-radius: 5px;
+	border-radius: 25px;
 	padding: 10px;
 	margin: 50px auto;
 }
@@ -79,10 +81,10 @@ input[type=text]:focus, textarea:focus {
 
 .button p {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 5px;
-	font-weight: bold;
+	letter-spacing: 7px;
+	font-weight: 500;
 }
 
 /*1024px*/
@@ -95,8 +97,8 @@ input[type=text]:focus, textarea:focus {
 
 body {
 margin: 0;
-color: #9ACDD2;
-background-color: #DEF1F3;
+color: #EAF7CE;
+background-color: #2E8B57;
 }
 
 #container {
@@ -109,22 +111,24 @@ p {
 	margin: 0;
 }
 h1 {
-	font-family: 'Sorts Mill Goudy', serif;
-	font-style: italic;
+	font-family:
+	'Merriweather', serif;
+	font-size: 36px;
 	font-weight: 400;
-	letter-spacing: -3px;
-	line-height: 75px;
-	font-size: 60px;
+	line-height: 60px;
+	letter-spacing: 1px;
 	text-align: center;
 	letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
     letter-spacing: 2px;
-		font-weight: 100;
+		color: white;
+		font-weight: 300;
+		font-style: oblique;
 }
 
 .inputbox {
@@ -132,7 +136,7 @@ h2 {
 }
 
 input {
-	width: 15vw;
+	width: 240px;
 	height: 20px;
 	margin-top: 50px;
 	font-size: 30px;
@@ -147,10 +151,10 @@ input {
 }
 
 .button {
-	width: 130px;
-	background-color: #9ACDD2;
+	width: 100px;
+	background-color: #62C7BD;
 	color: white;
-	border-radius: 5px;
+	border-radius: 25px;
 	padding: 10px;
 	margin: 50px auto;
 }
@@ -160,10 +164,10 @@ input {
 
 .button p {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 5px;
-	font-weight: bold;
+	letter-spacing: 6px;
+	font-weight: 500;
 }
 
 /*768px*/
@@ -175,8 +179,8 @@ input {
 
 body {
 margin: 0;
-color: #A4CA97;
-background-color: #EEFAE9;
+color: white;
+background-color: #9FD13B;
 }
 
 #container {
@@ -188,22 +192,26 @@ background-color: #EEFAE9;
 p {
 	margin: 0;
 }
+
 h1 {
-	font-family: 'Sorts Mill Goudy', serif;
+	font-family:
+	'Merriweather', serif;
+	font-size: 26px;
 	font-weight: 400;
-	font-size: 54px;
-	font-style: italic;
+	line-height: 40px;
 	letter-spacing: 1px;
-	line-height: 60px;
 	text-align: center;
+	letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
+		color: #DDF0BF;
     letter-spacing: 2px;
-		font-weight: 100;
+		font-weight: 300;
+		font-style: oblique;
 }
 
 .inputbox {
@@ -211,7 +219,7 @@ h2 {
 }
 
 input {
-	width: 15vw;
+	width: 225px;
 	height: 20px;
 	margin-top: 50px;
 	font-size: 30px;
@@ -226,10 +234,10 @@ input {
 }
 
 .button {
-	width: 130px;
-	background-color: #A4CA97;
+	width: 100px;
+	background-color:	#76B776;
 	color: white;
-	border-radius: 5px;
+	border-radius: 25px;
 	padding: 10px;
 	margin: 50px auto;
 }
@@ -239,10 +247,10 @@ input {
 
 .button p {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 5px;
-	font-weight: bold;
+	letter-spacing: 6px;
+	font-weight: 500;
 }
 
 /*320px*/
@@ -254,8 +262,8 @@ input {
 
 body {
 margin: 0;
-color: #EED778;
-background-color: #FDFAE4;
+color: #90C32B;
+background-color: #D4F396;
 }
 
 #container {
@@ -267,22 +275,26 @@ background-color: #FDFAE4;
 p {
 	margin: 0;
 }
+
 h1 {
-	font-family: 'Sorts Mill Goudy', serif;
+	font-family:
+	'Merriweather', serif;
+	font-size: 19px;
 	font-weight: 400;
-	font-style: italic;
-	line-height: 50px;
-	font-size: 47px;
-	text-align: center;
+	line-height: 34px;
 	letter-spacing: 1px;
+	text-align: center;
+	letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 13px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
+		color: #A1D22E;
     letter-spacing: 2px;
-		font-weight: 100;
+		font-weight: 300;
+		font-style: oblique;
 }
 
 .inputbox {
@@ -290,7 +302,7 @@ h2 {
 }
 
 input {
-	width: 24vw;
+	width: 200px;
 	height: 13px;
 	margin-top: 50px;
 	font-size: 30px;
@@ -305,10 +317,10 @@ input {
 }
 
 .button {
-	width: 130px;
-	background-color: #EED778;
+	width: 100px;
+	background-color: #61D4C8;
 	color: white;
-	border-radius: 5px;
+	border-radius: 25px;
 	padding: 10px;
 	margin: 50px auto;
 }
@@ -318,8 +330,8 @@ input {
 
 .button p {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 5px;
-	font-weight: bold;
+	letter-spacing: 6px;
+	font-weight: 500;
 }
