@@ -1,0 +1,325 @@
+body {
+margin: 0;
+color: #DBA29E;
+background-color: #FDF1F0;
+}
+
+#container {
+	width: 50vw;
+	margin: 0 auto;
+	padding: 100px 0 0 0;
+}
+
+p {
+	margin: 0;
+}
+h1 {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 75px;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 92px;
+	letter-spacing: 1px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+		font-weight: 100;
+}
+
+.inputbox {
+	text-align: center;
+}
+
+input {
+	width: 15vw;
+	height: 20px;
+	margin-top: 50px;
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: center;
+}
+
+input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+  border: 1px solid #DDDDDD;
+}
+
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 5px #DFD4B0;
+  border: 1px solid #DFD4B0;
+}
+
+.textbox {
+    margin: 0 auto;
+    margin-left: 20%;
+    max-width: 300px;
+}
+
+.button {
+	width: 130px;
+	background-color: #DBA29E;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 50px auto;
+}
+.button:hover {
+	cursor: pointer;
+}
+
+.button p {
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+
+/*1024px*/
+@media only screen and (max-width: 1024px) {
+
+  main {
+    width: 768px;
+    margin: 25px auto;
+}
+
+body {
+margin: 0;
+color: #9ACDD2;
+background-color: #DEF1F3;
+}
+
+#container {
+	width: 50vw;
+	margin: 0 auto;
+	padding: 100px 0 0 0;
+}
+
+p {
+	margin: 0;
+}
+h1 {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-weight: 400;
+	letter-spacing: -3px;
+	line-height: 75px;
+	font-size: 60px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+		font-weight: 100;
+}
+
+.inputbox {
+	text-align: center;
+}
+
+input {
+	width: 15vw;
+	height: 20px;
+	margin-top: 50px;
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.textbox {
+    margin: 0 auto;
+    margin-left: 20%;
+    max-width: 300px;
+}
+
+.button {
+	width: 130px;
+	background-color: #9ACDD2;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 50px auto;
+}
+.button:hover {
+	cursor: pointer;
+}
+
+.button p {
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+
+/*768px*/
+@media only screen and (max-width: 768px) {
+  main {
+    width: 768px;
+    margin: 25px auto;
+}
+
+body {
+margin: 0;
+color: #A4CA97;
+background-color: #EEFAE9;
+}
+
+#container {
+	width: 50vw;
+	margin: 0 auto;
+	padding: 100px 0 0 0;
+}
+
+p {
+	margin: 0;
+}
+h1 {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-weight: 400;
+	font-size: 54px;
+	font-style: italic;
+	letter-spacing: 1px;
+	line-height: 60px;
+	text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+		font-weight: 100;
+}
+
+.inputbox {
+	text-align: center;
+}
+
+input {
+	width: 15vw;
+	height: 20px;
+	margin-top: 50px;
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.textbox {
+    margin: 0 auto;
+    margin-left: 20%;
+    max-width: 300px;
+}
+
+.button {
+	width: 130px;
+	background-color: #A4CA97;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 50px auto;
+}
+.button:hover {
+	cursor: pointer;
+}
+
+.button p {
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+
+/*320px*/
+@media only screen and (max-width: 452px) {
+  main {
+    width: 320px;
+    margin: 10px auto;
+}
+
+body {
+margin: 0;
+color: #EED778;
+background-color: #FDFAE4;
+}
+
+#container {
+	width: 215px;
+	margin: 0 auto;
+	padding: 100px 0 0 0;
+}
+
+p {
+	margin: 0;
+}
+h1 {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 50px;
+	font-size: 47px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+		font-weight: 100;
+}
+
+.inputbox {
+	text-align: center;
+}
+
+input {
+	width: 24vw;
+	height: 13px;
+	margin-top: 50px;
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.textbox {
+    margin: 0 auto;
+    margin-left: 20%;
+    max-width: 300px;
+}
+
+.button {
+	width: 130px;
+	background-color: #EED778;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 50px auto;
+}
+.button:hover {
+	cursor: pointer;
+}
+
+.button p {
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
